@@ -4,12 +4,10 @@ SecurityTrails has an extremely robust API that can be used to enumerate subdoma
 This little script is designed to query their API and parse the results into a file that is ready to be sent to tools like httpx!
 Usage is pretty simple.
 
-![alt text](https://i.ibb.co/qsYkdqb/apikey.png)
+![alt text](https://i.ibb.co/vjyg7my/Screenshot.png)
 
-```
-First you need to register at securitytrails.com and get an API key. 
-```
-How to use:
+
+Usage is pretty simple. First you need to register at securitytrails.com and get an API key. Next, all you have to do is
 
 Step 1:
 ```
@@ -23,7 +21,7 @@ Step 3:
 ```
 Replace x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0x0 with your api code
 ```
-![alt text](https://i.ibb.co/vjyg7my/Screenshot.png")
+![alt text](https://i.ibb.co/qsYkdqb/apikey.png)
 
 Step 4:
 ```
