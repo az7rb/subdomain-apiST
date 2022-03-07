@@ -9,7 +9,7 @@ Usage is pretty simple.
 ```
 First you need to register at securitytrails.com and get an API key. 
 ```
-##How to use:
+How to use:
 
 Step 1:
 ```
